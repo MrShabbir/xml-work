@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<STUDENT>
+<CLASS>
+
+<name id="765">HP Laptop</name>
+<price>20,000</price>
+<describtion>THIS IS THE BEST LAPTOP. END FAST WORKING.</describtion>
+</CLASS>
+
+<CLASS>
+<name id="542">vivo</name>
+<price>45,000,000</price>
+<describtion>THIS IS THE BEST Mobile END FAST WORKING.</describtion>
+</CLASS>
+
+<CLASS>
+<name id="986">BAGS</name>
+<price>30,000</price>
+<describtion>THIS IS THE BEST NIKE. END FAST WORKING.</describtion>
+</CLASS>
+<CLASS>
+<name id="875">GLASSESS</name>
+<price>1000</price>
+<describtion>THIS IS THE BEST GLASSESS. END FAST WORKING.</describtion>
+</CLASS>
+
+</STUDENT>

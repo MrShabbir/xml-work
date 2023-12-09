@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRODUCTS>
+<shope>
+<id>540</id>
+<name>HP Laptop</name>
+<price>20,000</price>
+<describtion>THIS IS THE BEST LAPTOP. END FAST WORKING.</describtion>
+</shope>
+
+<shope>
+<id>542</id>
+<name>vivo</name>
+<price>45,000,000</price>
+<describtion>THIS IS THE BEST Mobile END FAST WORKING.</describtion>
+</shope>
+
+<shope>
+<id>545</id>
+<name>BAGS</name>
+<price>30,000</price>
+<describtion>THIS IS THE BEST NIKE. END FAST WORKING.</describtion>
+</shope>
+<shope>
+<id>1024</id>
+<name>GLASSESS</name>
+<price>1000</price>
+<describtion>THIS IS THE BEST GLASSESS. END FAST WORKING.</describtion>
+</shope>
+
+</PRODUCTS>
